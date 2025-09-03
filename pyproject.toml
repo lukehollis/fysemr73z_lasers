@@ -1,0 +1,16 @@
+[project]
+name = "notebooks"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dds-cloudapi-sdk>=0.5.3",
+    "dotenv>=0.9.9",
+    "flask>=3.1.2",
+    "pycocotools>=2.0.10",
+    "scikit-image>=0.25.2",
+    "supervision>=0.26.1",
+    "torch>=2.8.0",
+    "ultralytics>=8.3.192",
+]
