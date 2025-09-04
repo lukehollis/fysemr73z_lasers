@@ -1,3 +1,6 @@
+![example_raster_annotations](https://github.com/user-attachments/assets/1b3155a2-aa41-4b1a-a7a5-b18f3a3bff49)
+
+
 # FYSEMR 73z - Lasers
 
 Quickstart: Run the DINO-X detection and other notebooks
